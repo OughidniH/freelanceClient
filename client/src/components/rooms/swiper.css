@@ -1,0 +1,21 @@
+.swiper {
+  background: linear-gradient(
+    180deg,
+    rgba(204, 200, 255, 0.938) 46%,
+    rgba(1, 9, 56, 0.918) 100%
+  );
+  height: fit-content;
+}
+
+.swiper-wrapper {
+  align-items: center;
+}
+.swiper-slide img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.images-sec {
+  border-radius: 15px;
+}
